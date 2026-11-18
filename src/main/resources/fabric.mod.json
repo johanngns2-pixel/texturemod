@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "packstudio",
+  "version": "${version}",
+  "name": "Pack Studio",
+  "description": "Pack-Showcase als GIF exportieren (ohne ffmpeg), Item-Waehler, Live-Vorschau, virtueller Raum.",
+  "authors": ["du"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.packstudio.PackStudio"],
+    "modmenu": ["dev.packstudio.PackStudioModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": { "modmenu": "*" }
+}

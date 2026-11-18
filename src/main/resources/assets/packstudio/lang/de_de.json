@@ -1,0 +1,23 @@
+{
+  "key.packstudio.open": "Pack Studio oeffnen",
+  "key.category.packstudio.main": "Pack Studio",
+  "packstudio.title": "Pack Studio",
+  "packstudio.pack": "Pack: %s",
+  "packstudio.mode.variants": "Ansicht: Farbvarianten",
+  "packstudio.mode.packs": "Ansicht: Packs",
+  "packstudio.mode.room": "Ansicht: Raum",
+  "packstudio.search": "Suche",
+  "packstudio.titlefield": "Titel",
+  "packstudio.variants": "Farben (Name:#HEX, ...)",
+  "packstudio.all": "Alle",
+  "packstudio.none": "Keine",
+  "packstudio.export": "GIF exportieren",
+  "packstudio.png": "PNG",
+  "packstudio.folder": "Ordner oeffnen",
+  "packstudio.close": "Schliessen",
+  "packstudio.nopacks": "Keine Packs in resourcepacks/ gefunden",
+  "packstudio.rendering": "Exportiere... %s%%",
+  "packstudio.done": "Gespeichert: %s",
+  "packstudio.error": "Fehler: %s",
+  "packstudio.selected": "%s Items gewaehlt"
+}

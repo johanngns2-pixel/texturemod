@@ -1,0 +1,23 @@
+{
+  "key.packstudio.open": "Open Pack Studio",
+  "key.category.packstudio.main": "Pack Studio",
+  "packstudio.title": "Pack Studio",
+  "packstudio.pack": "Pack: %s",
+  "packstudio.mode.variants": "View: Colour variants",
+  "packstudio.mode.packs": "View: Packs",
+  "packstudio.mode.room": "View: Room",
+  "packstudio.search": "Search",
+  "packstudio.titlefield": "Title",
+  "packstudio.variants": "Colours (Name:#HEX, ...)",
+  "packstudio.all": "All",
+  "packstudio.none": "None",
+  "packstudio.export": "Export GIF",
+  "packstudio.png": "PNG",
+  "packstudio.folder": "Open folder",
+  "packstudio.close": "Close",
+  "packstudio.nopacks": "No packs found in resourcepacks/",
+  "packstudio.rendering": "Exporting... %s%%",
+  "packstudio.done": "Saved: %s",
+  "packstudio.error": "Error: %s",
+  "packstudio.selected": "%s items selected"
+}
